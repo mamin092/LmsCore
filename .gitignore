@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LmsApp/.vs/LmsApp/v15
+/LmsApp/LmsApp.Server/obj
+/LmsApp/Model/obj
+/LmsApp/Repository/obj
+/LmsApp/RequstModel/obj
+/LmsApp/Service/obj
+/LmsApp/ViewModel/obj
