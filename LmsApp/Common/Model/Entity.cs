@@ -1,10 +1,10 @@
-﻿using System;
+﻿using System; 
 
-namespace Common
+namespace Common.Model
 {
+    [Serializable]
     public class Entity
     {
-
         public string Id { get; set; }
         public DateTime Created { get; set; }
         public string CreatedBy { get; set; }
