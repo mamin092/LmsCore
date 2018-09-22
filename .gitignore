@@ -10,3 +10,11 @@
 /LmsApp/Service/obj
 /LmsApp/ViewModel/obj
 /LmsApp/Common/obj
+/LmsApp/.vs/LmsApp/DesignTimeBuild
+/LmsApp/Common/bin/Debug/netcoreapp2.1
+/LmsApp/LmsApp.Server/bin/Debug
+/LmsApp/Model/bin/Debug/netcoreapp2.1
+/LmsApp/Repository/bin/Debug/netcoreapp2.1
+/LmsApp/RequstModel/bin/Debug/netcoreapp2.1
+/LmsApp/Service/bin/Debug/netcoreapp2.1
+/LmsApp/ViewModel/bin/Debug/netcoreapp2.1
